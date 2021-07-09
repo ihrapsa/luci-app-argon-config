@@ -1,6 +1,8 @@
 config global
-	option primary '#2196f3' #fluidd. for Mainsail use #e73d26
-	option dark_primary '#2196f3' #fluidd. for Mainsail use #e73d26
+	option primary '#2196f3'       #for fluidd
+	option dark_primary '#2196f3'  #for fluidd
+	#option primary '#e73d26'       #for Mainsail
+	#option dark_primary '#e73d26'  #for Mainsail
 	option blur '10'
 	option blur_dark '10'
 	option transparency '0.5'
