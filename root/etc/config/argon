@@ -1,11 +1,15 @@
 config global
-	option primary '#2196f3'       #for fluidd
-	option dark_primary '#2196f3'  #for fluidd
+	option primary '#13c100'       #for Octoprint
+	option dark_primary '#169300'  #for Octoprint
+
+	#option primary '#2196f3'       #for fluidd
+	#option dark_primary '#2196f3'  #for fluidd
+	
 	#option primary '#d41216'       #for Mainsail
 	#option dark_primary '#d41216'  #for Mainsail
 	option blur '10'
 	option blur_dark '10'
 	option transparency '0.5'
 	option transparency_dark '0.5'
-	option mode 'dark'
+	option mode 'light'
 	option bing_background '0'
